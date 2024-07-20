@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+}
+p{
+    text-align: center;
+}
+.gam{
+    background-color: black;
+}
+.gam span.st{    
+    color: red;
+}
+.gam span.lan{
+    color: white;
+    text-align: right;
+    font-size: smaller;
+}
+/*span{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}*/
+    
